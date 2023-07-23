@@ -1,2 +1,2 @@
 FROM rxyxxy/tra:xssh-clidll
-EXPOSE 8080
+EXPOSE 80
